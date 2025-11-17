@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: 0 1em;
+  }
+
+  header {
+    padding: 3em 0 2em 0;
+  }
+
+  header .avatar img {
+    width: 6em;
+  }
+  
