@@ -10,4 +10,18 @@
   header .avatar img {
     width: 6em;
   }
+h1 {
+    font-size: 19.2px;
+    line-height: 1.4;
+  }
+
+  ul.icons {
+    text-align: center;
+    padding: 0;
+  }
+
+  ul.icons li {
+    display: inline-block;
+    padding: 0 8px;
+  }
   
