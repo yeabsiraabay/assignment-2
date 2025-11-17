@@ -37,3 +37,18 @@ h1 {
   .thumbnails a {
     margin: 0 0 1.5em 0;
   }
+
+   footer {
+    padding: 2em 0;
+  }
+
+  footer:before {
+    margin-bottom: 2em;
+  }
+}
+/*
+Yeabsira Abay -------- DF/UR 38483/16
+Simon Guta -----------DF/UR 38459/16
+Yared Million -------DF/UR 38481/16
+Ermiyas Befkadu ------DF/UR 38353/16
+*/ 
